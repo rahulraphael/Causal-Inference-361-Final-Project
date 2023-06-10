@@ -1,0 +1,11 @@
+mager41 - mother's age
+cig_rec - does mother smoke or not
+fagecomb - father's age
+precare - month prenatal care began
+wtgain - mother's weight gain during pregnancy
+rf_ghyp - risk factor, gestational hypertension
+rf_gest - risk factor, gestational diabetes
+rf_ppoutc - risk factor, Poor Pregnancy Outcome
+rf_eclam - risk factor, eclampsia
+bwtr14 - birth weight
+sex - sex of the infant
